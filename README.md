@@ -80,22 +80,6 @@ $ conda activate oscar
 
 This section explains how to use `fusion` and `rover`.
 
-### fusion
-
-`fusion` is heavily relied on OSRF's `car_demo` project. Simply use the following script.
-
-```
-(oscar) $ ./start_fusion.sh 
-```
-
-A `world` can be selected through a command line argument. Three worlds are ready to be used.
-- `track_jaerock`: This is default. No need to specified.
-- `sonoma_raceway`: racetrack
-- `mcity_jaerock`: mcity
-
-```
-(oscar) $ ./start_fusion.sh {sonoma_raceway|mcity_jaerock}
-```
 
 ### rover 
 
