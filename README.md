@@ -116,7 +116,7 @@ From `data_collection` config version 0.92, the CSV file has one more column for
 
 #### From Version 0.92
 
-Data Collection will save a csv file with images. The CSV file has following columns
+Collection will save a csv file with images. The CSV file has following columns
 
 ```
 image_file_name / steering_angle / throttle / brake / linux_time / velocity / velocity_x / velocity_y / velocity_z / position_x / position_y / position_z
