@@ -2,7 +2,7 @@
 ![](imagesss.png)
 
 <p float="left">
-  <img src="/PX4_Rover_Test_with_Joystick_13.gif" width="4000" />
+  <img src="/PX4_Rover_Test_with_Joystick_13.gif" width="400" />
   <img src="/PX4_Rover_Test.gif" width="400" /> 
 </p>
 
