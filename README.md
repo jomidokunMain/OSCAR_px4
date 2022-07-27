@@ -1,6 +1,5 @@
 # OSCAR
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+
 ![](PX4_Rover_Test_with_Joystick_13.gif)  | ![](imagesss.png)
 
 ## History
