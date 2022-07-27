@@ -2,8 +2,8 @@
 ![](imagesss.png)
 
 <p float="left">
-  <img src="/PX4_Rover_Test_with_Joystick_13.gif" width="450" />
-  <img src="/PX4_Rover_Test.gif" width="450" /> 
+  <img src="/PX4_Rover_Test_with_Joystick_13.gif" width="425" />
+  <img src="/PX4_Rover_Test.gif" width="425" /> 
 </p>
 
 
