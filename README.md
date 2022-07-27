@@ -1,7 +1,7 @@
 # OSCAR
-Solarized dark             |  Solarized Ocean
+             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](PX4_Rover_Test_with_Joystick_13.gif)  |  ![](Screenshot from 2022-07-27 18-26-53.png)
+![](PX4_Rover_Test_with_Joystick_13.gif)  |  ![](imagesss.png)
 ## History
 
 
