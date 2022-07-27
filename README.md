@@ -1,6 +1,8 @@
 # OSCAR
-
-![](PX4_Rover_Test_with_Joystick_13.gif)  | ![](imagesss.png)
+.             |  .
+:-------------------------:|:-------------------------:
+![](PX4_Rover_Test_with_Joystick_13.gif)  |  ![](PX4_Rover_Test.gif)
+![](imagesss.png)
 
 ## History
 
