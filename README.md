@@ -93,7 +93,7 @@ Then the `rover` is ready to be controlled by the topic `/mavros/setpoint_veloci
 
 Run the script with a data ID as an argument.
 ```
-(oscar) $ ./collect_data_fusion jaerock
+(oscar) $ ./collect_data_rover 
 ```
 
 The default data folder location is `$(pwd)e2e_data`.
